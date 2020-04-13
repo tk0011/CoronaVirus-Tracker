@@ -1,0 +1,12 @@
+.form {
+    margin: 20px !important;
+}
+
+.form:hover {
+    transform:  scale(1.05);
+    transition: 0.2s ease-in-out;
+}
+
+.form:focus {
+    background: none;
+}
